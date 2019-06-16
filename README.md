@@ -1,0 +1,2 @@
+# GITIDEATest
+IDEAS测试Git使用
